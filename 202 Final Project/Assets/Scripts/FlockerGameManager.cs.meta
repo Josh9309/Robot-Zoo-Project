@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f48ad621d8dd36946b86753461770d95
+timeCreated: 1449111245
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dude: {fileID: 100002, guid: 47592d1ca22584d8eaa8d48f270a955f, type: 2}
+  - target: {instanceID: 0}
+  - dudePrefab: {instanceID: 0}
+  - targetPrefab: {instanceID: 0}
+  - obstaclePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

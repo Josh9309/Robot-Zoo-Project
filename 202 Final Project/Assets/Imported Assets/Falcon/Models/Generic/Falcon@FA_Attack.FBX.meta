@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: a86cba8e3c757ab45a5c71d0cc5cbad2
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Falcon001
+    100002: //RootNode
+    100004: Falcon_ Tail
+    100006: Falcon_Bip001
+    100008: Falcon_Bip001 Footsteps
+    100010: Falcon_Bip001 Head
+    100012: Falcon_Bip001 HeadNub
+    100014: Falcon_Bip001 L Calf
+    100016: Falcon_Bip001 L Foot
+    100018: Falcon_Bip001 L HorseLink
+    100020: Falcon_Bip001 L Thigh
+    100022: Falcon_Bip001 L Toe0
+    100024: Falcon_Bip001 L Toe01
+    100026: Falcon_Bip001 L Toe02
+    100028: Falcon_Bip001 L Toe0Nub
+    100030: Falcon_Bip001 L Toe1
+    100032: Falcon_Bip001 L Toe11
+    100034: Falcon_Bip001 L Toe12
+    100036: Falcon_Bip001 L Toe1Nub
+    100038: Falcon_Bip001 Neck
+    100040: Falcon_Bip001 Pelvis
+    100042: Falcon_Bip001 R Calf
+    100044: Falcon_Bip001 R Foot
+    100046: Falcon_Bip001 R HorseLink
+    100048: Falcon_Bip001 R Thigh
+    100050: Falcon_Bip001 R Toe0
+    100052: Falcon_Bip001 R Toe01
+    100054: Falcon_Bip001 R Toe02
+    100056: Falcon_Bip001 R Toe0Nub
+    100058: Falcon_Bip001 R Toe1
+    100060: Falcon_Bip001 R Toe11
+    100062: Falcon_Bip001 R Toe12
+    100064: Falcon_Bip001 R Toe1Nub
+    100066: Falcon_Bip001 Spine
+    100068: Falcon_Bip001 Spine1
+    100070: Falcon_Bip001_Jaw_Bone001
+    100072: Falcon_L_Wing01
+    100074: Falcon_L_Wing01_01
+    100076: Falcon_L_Wing01_02
+    100078: Falcon_L_Wing02
+    100080: Falcon_L_Wing02_01
+    100082: Falcon_L_Wing02_02
+    100084: Falcon_L_Wing03
+    100086: Falcon_L_Wing03_01
+    100088: Falcon_L_Wing03_02
+    100090: Falcon_L_Wing04
+    100092: Falcon_L_Wing04_01
+    100094: Falcon_L_Wing04_02
+    100096: Falcon_L_Wing05
+    100098: Falcon_R_Wing01
+    100100: Falcon_R_Wing01_01
+    100102: Falcon_R_Wing01_02
+    100104: Falcon_R_Wing02
+    100106: Falcon_R_Wing02_01
+    100108: Falcon_R_Wing02_02
+    100110: Falcon_R_Wing03
+    100112: Falcon_R_Wing03_01
+    100114: Falcon_R_Wing03_02
+    100116: Falcon_R_Wing04
+    100118: Falcon_R_Wing04_01
+    100120: Falcon_R_Wing04_02
+    100122: Falcon_R_Wing05
+    100124: Falcon_Tail_L_Bone001
+    100126: Falcon_Tail_R_Bone001
+    400000: Falcon001
+    400002: //RootNode
+    400004: Falcon_ Tail
+    400006: Falcon_Bip001
+    400008: Falcon_Bip001 Footsteps
+    400010: Falcon_Bip001 Head
+    400012: Falcon_Bip001 HeadNub
+    400014: Falcon_Bip001 L Calf
+    400016: Falcon_Bip001 L Foot
+    400018: Falcon_Bip001 L HorseLink
+    400020: Falcon_Bip001 L Thigh
+    400022: Falcon_Bip001 L Toe0
+    400024: Falcon_Bip001 L Toe01
+    400026: Falcon_Bip001 L Toe02
+    400028: Falcon_Bip001 L Toe0Nub
+    400030: Falcon_Bip001 L Toe1
+    400032: Falcon_Bip001 L Toe11
+    400034: Falcon_Bip001 L Toe12
+    400036: Falcon_Bip001 L Toe1Nub
+    400038: Falcon_Bip001 Neck
+    400040: Falcon_Bip001 Pelvis
+    400042: Falcon_Bip001 R Calf
+    400044: Falcon_Bip001 R Foot
+    400046: Falcon_Bip001 R HorseLink
+    400048: Falcon_Bip001 R Thigh
+    400050: Falcon_Bip001 R Toe0
+    400052: Falcon_Bip001 R Toe01
+    400054: Falcon_Bip001 R Toe02
+    400056: Falcon_Bip001 R Toe0Nub
+    400058: Falcon_Bip001 R Toe1
+    400060: Falcon_Bip001 R Toe11
+    400062: Falcon_Bip001 R Toe12
+    400064: Falcon_Bip001 R Toe1Nub
+    400066: Falcon_Bip001 Spine
+    400068: Falcon_Bip001 Spine1
+    400070: Falcon_Bip001_Jaw_Bone001
+    400072: Falcon_L_Wing01
+    400074: Falcon_L_Wing01_01
+    400076: Falcon_L_Wing01_02
+    400078: Falcon_L_Wing02
+    400080: Falcon_L_Wing02_01
+    400082: Falcon_L_Wing02_02
+    400084: Falcon_L_Wing03
+    400086: Falcon_L_Wing03_01
+    400088: Falcon_L_Wing03_02
+    400090: Falcon_L_Wing04
+    400092: Falcon_L_Wing04_01
+    400094: Falcon_L_Wing04_02
+    400096: Falcon_L_Wing05
+    400098: Falcon_R_Wing01
+    400100: Falcon_R_Wing01_01
+    400102: Falcon_R_Wing01_02
+    400104: Falcon_R_Wing02
+    400106: Falcon_R_Wing02_01
+    400108: Falcon_R_Wing02_02
+    400110: Falcon_R_Wing03
+    400112: Falcon_R_Wing03_01
+    400114: Falcon_R_Wing03_02
+    400116: Falcon_R_Wing04
+    400118: Falcon_R_Wing04_01
+    400120: Falcon_R_Wing04_02
+    400122: Falcon_R_Wing05
+    400124: Falcon_Tail_L_Bone001
+    400126: Falcon_Tail_R_Bone001
+    4300000: Falcon001
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Falcon001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f302d37ee097a874baebaf3046457f78,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

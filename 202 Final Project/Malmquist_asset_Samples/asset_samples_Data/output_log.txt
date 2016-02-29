@@ -1,0 +1,33 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 680 (ID=0x1180)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: J:\RIT\IGME-202\Final Project\202 Final Project\Malmquist_asset_Samples\asset_samples_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading J:\RIT\IGME-202\Final Project\202 Final Project\Malmquist_asset_Samples\asset_samples_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: J:\RIT\IGME-202\Final Project\202 Final Project\Malmquist_asset_Samples\asset_samples_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading J:\RIT\IGME-202\Final Project\202 Final Project\Malmquist_asset_Samples\asset_samples_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: J:\RIT\IGME-202\Final Project\202 Final Project\Malmquist_asset_Samples\asset_samples_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading J:\RIT\IGME-202\Final Project\202 Final Project\Malmquist_asset_Samples\asset_samples_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: J:\RIT\IGME-202\Final Project\202 Final Project\Malmquist_asset_Samples\asset_samples_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading J:\RIT\IGME-202\Final Project\202 Final Project\Malmquist_asset_Samples\asset_samples_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: J:\RIT\IGME-202\Final Project\202 Final Project\Malmquist_asset_Samples\asset_samples_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading J:\RIT\IGME-202\Final Project\202 Final Project\Malmquist_asset_Samples\asset_samples_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: J:\RIT\IGME-202\Final Project\202 Final Project\Malmquist_asset_Samples\asset_samples_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading J:\RIT\IGME-202\Final Project\202 Final Project\Malmquist_asset_Samples\asset_samples_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.171 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Shader 'Toon/Basic Outline': fallback shader 'Toon/Basic' not found
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Setting to default shader.
+Shader 'Toon/Basic Outline': fallback shader 'Toon/Basic' not found
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Setting to default shader.
+Platform assembly: J:\RIT\IGME-202\Final Project\202 Final Project\Malmquist_asset_Samples\asset_samples_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: J:\RIT\IGME-202\Final Project\202 Final Project\Malmquist_asset_Samples\asset_samples_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1f44 -> priority: 1 
